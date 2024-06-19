@@ -32,7 +32,7 @@ separator_color = false
 [palette]
 type            = "Dark"
 visible         = true
-glyph           = "  "
+glyph           = "   "
 
 [keys]
 host            = "  host"
